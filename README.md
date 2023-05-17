@@ -127,6 +127,12 @@ Linters
 
 ## 👥 Authors 
 
+👤 **Emmanuel Kipngeno**
+
+- GitHub: [@kkmanuu](https://github.com/kkmanuu)
+- Twitter: [@kkmanuu](https://twitter.com/kkmanuu)
+- LinkedIn: [Emmanuel Kipngeno](https://www.linkedin.com/in/emmanuel-kipngeno-879370242/)
+
 👤 **Uwimbabazi Dorcas**
 
 - GitHub: [@Dorcas126](https://github.com/Dorcas126)
@@ -149,8 +155,6 @@ Feel free to check the [issues page](../../issues/).
 ### Future Features 
 
 - **[Add functionality using JS]**
-- **[Add Boostrap to my html file]**
-
 
 <!-- SUPPORT -->
 
