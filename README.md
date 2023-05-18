@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  
   <img src="https://dl.dropboxusercontent.com/s/36qn9s23n9mgsth/dorcaslogo.png" alt="logo" width=""  height="auto" />
   <br/>
 
@@ -9,7 +9,7 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
+
 
 # 📗 Table of Contents
 
@@ -32,7 +32,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 [setup and mobile first project] 
 
@@ -64,7 +64,6 @@ and styled it , by giving it a color.
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features 
 
@@ -75,7 +74,6 @@ and styled it , by giving it a color.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO SECTION-->
 
 ## 🚀 Live Demo 
 
@@ -83,7 +81,6 @@ and styled it , by giving it a color.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started 
 
@@ -123,7 +120,6 @@ To run tests, run the following command:
 
 Linters
 
-<!-- AUTHORS -->
 
 ## 👥 Authors 
 
@@ -139,7 +135,6 @@ Linters
 - Twitter: [@Dorcasuw](https://twitter.com/Dorcasuwi)
 - LinkedIn: [Uwimbabazi Dorcas](https://www.linkedin.com/in/uwimbabazi-dorcas-956a5a226/)
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing 
 
@@ -150,13 +145,10 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- Future Features -->
-
 ### Future Features 
 
 - **[Add functionality using JS]**
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support
 
@@ -166,7 +158,6 @@ Thank you.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments 
 
@@ -175,7 +166,6 @@ Thank you
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
