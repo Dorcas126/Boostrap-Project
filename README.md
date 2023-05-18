@@ -135,6 +135,11 @@ Linters
 - Twitter: [@Dorcasuw](https://twitter.com/Dorcasuwi)
 - LinkedIn: [Uwimbabazi Dorcas](https://www.linkedin.com/in/uwimbabazi-dorcas-956a5a226/)
 
+👤 **Thato Mongwe**
+
+- GitHub: [@githubhandle](https://github.com/Tarto-4)
+- Twitter: [@twitterhandle](https://twitter.com/THATOMongwe4)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thato-mongwe-08a84a23a/)
 
 ## 🤝 Contributing 
 
